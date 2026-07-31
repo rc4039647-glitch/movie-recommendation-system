@@ -5,9 +5,9 @@ A content-based movie recommendation system built using Python, Streamlit, and S
 
 ## 🚀 Live Demo
 
-[Click here to use the app](https://your-streamlit-url.streamlit.app)
+[Click here to use the app](https://movie-recommendation-system-n8nrse7u7rbha8yoofimuu.streamlit.app)
 
-## Features
+
 
 ## Features
 
