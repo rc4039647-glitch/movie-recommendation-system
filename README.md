@@ -9,10 +9,12 @@ A content-based movie recommendation system built using Python, Streamlit, and S
 
 ## Features
 
-- Recommend similar movies
+## Features
+
+- Content-Based Movie Recommendation
 - TF-IDF Vectorizer
 - Cosine Similarity
-- Streamlit Web Interface
+- Streamlit Web Application
 
 ## Technologies Used
 
