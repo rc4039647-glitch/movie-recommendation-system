@@ -20,6 +20,6 @@ if st.button("Recommend"):
         if isinstance(result, str):
             st.error(result)
         else:
-            st.dataframe(result, use_container_width=True)
+            st.dataframe(result, width="stretch")
     else:
         st.warning("Please enter a movie name.")
