@@ -2,6 +2,11 @@
 
 A content-based movie recommendation system built using Python, Streamlit, and Scikit-learn.
 
+
+## 🚀 Live Demo
+
+[Click here to use the app](https://your-streamlit-url.streamlit.app)
+
 ## Features
 
 - Recommend similar movies
